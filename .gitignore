@@ -2,6 +2,7 @@
 venv/
 Deep Learning/Word Embeddings/Cell_Phones_and_Accessories_5.json
 CSCI 5922  CU Boulder Neural Networks and Deep Learning/Lab Assignments/Lab 2
+Generative AI Learnings/Vector Embeddings/.env
 
 # Ignore Python cache files
 *.pyc
@@ -16,4 +17,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore 
-*.env
+**/.env
